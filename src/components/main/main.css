@@ -5,6 +5,8 @@
 .singers{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    overflow: scroll;
+    height: 100vh;
 }
 .budget{
     padding: 15px;
