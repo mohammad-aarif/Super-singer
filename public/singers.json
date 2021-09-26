@@ -1,0 +1,151 @@
+[
+	{   
+		"key":1,
+		"name": "Lady Gaga",
+		"genres": "Pop, Electronic",
+		"age": 35,
+		"salary": 2345,
+		"country": "USA",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/210120-D-WD757-1720_%2850861332387%29_%28cropped%29.jpg/330px-210120-D-WD757-1720_%2850861332387%29_%28cropped%29.jpg"
+	},
+	{   
+		"key": 2,
+		"name": "Dua Lipa",
+		"genres": "Pop, House",
+		"age": 26,
+		"salary": 2540,
+		"country": "England",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dua_Lipa_with_Warner_Music.jpg/330px-Dua_Lipa_with_Warner_Music.jpg"
+	},
+	{   
+		"key": 3,
+		"name": "Billie Eilish",
+		"genres": "Pop, Electopop",
+		"age": 19,
+		"salary": 3413,
+		"country": "USA",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Billie_Eilish_guesses_how_4%2C669_fans_responded_to_a_survey_about_her_%2802%29.jpg/330px-Billie_Eilish_guesses_how_4%2C669_fans_responded_to_a_survey_about_her_%2802%29.jpg"
+	},
+	{   
+		"key": 4,
+		"name": "Selena Gomez",
+		"genres": "Pop, Electopop",
+		"age": 29,
+		"salary": 3421,
+		"country": "USA",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Selena_Gomez_in_2021.jpg/330px-Selena_Gomez_in_2021.jpg"
+	},
+	{   
+		"key": 5,
+		"name": "Ed Sheeran",
+		"genres": "Pop, Hip-hop",
+		"age": 30,
+		"salary": 1215,
+		"country": "England",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/330px-Ed_Sheeran-6886_%28cropped%29.jpg"
+	},
+	{   
+		"key": 6,
+		"name": "Shawn Mendes",
+		"genres": "Pop, Pop-rock",
+		"age": 23,
+		"salary": 5524,
+		"country": "Canada",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shawn_Mendes_teaches_you_Canadian_slangs_02.jpg/330px-Shawn_Mendes_teaches_you_Canadian_slangs_02.jpg"
+	},
+	{   
+		"key": 7,
+		"name": "Ariana Grande",
+		"genres": "Pop,",
+		"age": 28,
+		"salary": 2423,
+		"country": "USA",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ariana_Grande_Grammys_Red_Carpet_2020.png/330px-Ariana_Grande_Grammys_Red_Carpet_2020.png"
+	},
+	{
+		"key": 8,
+		"name": "Taylor Swift",
+		"genres": "Pop, rock",
+		"age": 31,
+		"salary": 2214,
+		"country": "USA",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png/330px-191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png"
+	},
+	{
+		"key": 9,
+		"name": "Camila Cabello",
+		"genres": "Pop",
+		"age": 24,
+		"salary": 2002,
+		"country": "Cuba",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Camila_Cabello_Vogue_4.jpg/330px-Camila_Cabello_Vogue_4.jpg"
+	},
+	{   "key": 10,
+		"name": "Arjit Singh",
+		"genres": "Pop, Filmi",
+		"age": 34,
+		"salary": 3221,
+		"country": "India",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Arijit_5th_GiMA_Awards.jpg/330px-Arijit_5th_GiMA_Awards.jpg"
+	},
+	{
+		"key": 11,
+		"name": "Atif Aslam",
+		"genres": "Filmi, Sufi",
+		"age": 38,
+		"salary": 4234,
+		"country": "Pakistan",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Atif_Aslam_at_Badlapur_%28cropped%29.jpg/330px-Atif_Aslam_at_Badlapur_%28cropped%29.jpg"
+	},
+	{
+		"key": 12,
+		"name": "Neha Kakkar",
+		"genres": "Filmi, Pop",
+		"age": 33,
+		"salary": 2345,
+		"country": "India",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Neha_Kakkar_Birthday_Bash.jpg"
+	},
+	{   "key": 13,
+		"name": "Shreya Ghoshal",
+		"genres": "Indian, Electronic",
+		"age": 37,
+		"salary": 1244,
+		"country": "India",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Shreya_Ghoshal_at_Filmfare_Awards_South.jpg"
+	},
+	{
+		"key": 14,
+		"name": "Badsha",
+		"genres": "Pop, Hip-hop",
+		"age": 35,
+		"salary": 1231,
+		"country": "India",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Badshah_spotted_before_the_shoot_of_No_Filter_Neha.jpg/330px-Badshah_spotted_before_the_shoot_of_No_Filter_Neha.jpg"
+	},
+	{
+		"key": 15,
+		"name": "AR Rahman",
+		"genres": "Filmi",
+		"age": 54,
+		"salary": 1133,
+		"country": "India",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/6/66/AR_Rahman_2021.png"
+	},
+	{   "key": 16,
+		"name": "Ketty Perry",
+		"genres": "Pop, Rock",
+		"age": 36,
+		"salary": 3234,
+		"country": "USA",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Katy_Perry_2019_%28cropped%29.jpg/330px-Katy_Perry_2019_%28cropped%29.jpg"
+	},
+	{   "key": 17,
+		"name": "Bad Bunny",
+		"genres": "Latin Trap",
+		"age": 27,
+		"salary": 1212,
+		"country": "USA",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bad_Bunny_2019_by_Glenn_Francis.jpg/330px-Bad_Bunny_2019_by_Glenn_Francis.jpg"
+	}
+]

@@ -1,0 +1,19 @@
+.singer-card{
+    padding: 20px;
+    text-align: center;
+    background: rgba(236, 229, 189, 0.349);
+    margin: 10px;
+    border-radius: 20px;
+}
+.singer-img{
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.add-list-btn{
+    background-color: rgb(255, 196, 0);
+    margin: 10px;
+    padding: 5px 25px;
+    border-radius: 10px;
+}

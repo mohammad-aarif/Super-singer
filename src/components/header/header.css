@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header-container{
+    text-align: center;
+    background: rgb(247, 232, 183);
+    padding:20px;
+    color: rgb(133, 102, 0);
+}
