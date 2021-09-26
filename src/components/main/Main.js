@@ -14,6 +14,10 @@ const Main = () => {
         const newList = [...list, singer];
         setList(newList);
     }
+    let total = 0;
+    for(const item of list){
+        total = total + item.salary;
+    }
     return (
         <div className="main-container">
             <div className="singers">
@@ -31,7 +35,7 @@ const Main = () => {
                 <p>Total added: <strong>{list.length}</strong></p>
                 <br />
                 <br />
-                <h3>Total: </h3>
+                <h3>Total: {total}</h3>
             </div>
         </div>
     );
